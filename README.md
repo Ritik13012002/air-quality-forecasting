@@ -40,6 +40,7 @@ Date information
 Historical AQI values
 
 🧠 Machine Learning Approach
+
 1️⃣ Data Preprocessing
 
 Converted date column to datetime format
